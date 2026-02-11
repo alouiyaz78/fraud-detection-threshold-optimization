@@ -1,9 +1,5 @@
 
----
 
-# 2) `README.md` (English)
-
-```md
 # Credit Card Fraud Detection — Imbalanced ML Pipeline (Kaggle Dataset)
 
 ## Overview
